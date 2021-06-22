@@ -1354,6 +1354,9 @@
     </reporting>
 
     <properties>
+        <sonar.projectKey>rubengomez97_Benchmark</sonar.projectKey>
+  <sonar.organization>rubengomez97</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <failOnMissingWebXml>false</failOnMissingWebXml>
